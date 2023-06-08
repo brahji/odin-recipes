@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(37, 35, 35);
+}
+
+.title {
+    color: rgb(145, 235, 150);
+    text-align: center;
+    margin: auto;
+    font-size: 72px;
+}
+
+.title-picture {
+    display: block;
+    margin: 30px auto;
+    border: 2.5mm solid rgb(145, 235, 150);
+}
+
+.stirfry-title {
+    color: whitesmoke;
+    padding-left: 3.75%;
+    font-size: 48px;
+    margin-bottom: 2px;
+
+}
+
+.pbj-title {
+    color: whitesmoke;
+    font-size: 48px;
+    margin-left: 21.5%;
+}
+
+.chili-title {
+    color: whitesmoke;
+    font-size: 48px;
+    margin-left: 18%;
+}
+
+.stirfry-picture {
+
+}
+
+.chili-picture {
+    height: 200px;
+    margin-left: 75%;
+}
